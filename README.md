@@ -11,4 +11,6 @@ https://www.tensorflow.org/tutorials/layers
 completed with cnn LeNet-5 model , AdamOptimizer
 while there is an error which has not been modified 
 
-4.bpnn_mnis
+4.mnist_simplest version .py
+original softmax version 
+注意所有矩阵维数的对应 容易出现bug
